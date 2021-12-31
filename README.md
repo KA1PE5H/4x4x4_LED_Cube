@@ -1,10 +1,7 @@
 # 4x4x4_LED_Cube
 This repo consist of the arduino code made from scratch for the LED Cube with soldered LEDs of dimensions 4x4x4, connected to arduino board with 20 wires. 
 
-Code Explaination:
-
-
-
+Model Explaination:
 
 First the virtual model was prepared in TinkerCAD, and after the succesful working of the arduino code in TinkerCAD model. You can check the TinkerCAD model [here](https://www.tinkercad.com/things/cTvofxKdty1-ka1pe5hledcubeproject/editel?sharecode=wYJQzJZ-9d_QAwHThTwb5Yn3JVQgLMFIXNzUKTJgpt8).
 
@@ -40,3 +37,9 @@ After this I made a solid stand and protection around the delicate soldered copp
 Now I just had to upload the arduino code to the arduino board to get the beautiful patters/letters and since the LEDs were multicoloured so altering the voltage gave different colours making a magnificent LED cube for my desk decoration :)
 
 https://user-images.githubusercontent.com/66291674/147839980-189b0df2-1e2a-47c6-88e5-4433a6587d18.mp4
+
+
+Code Explaination:
+
+
+
